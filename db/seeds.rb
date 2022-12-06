@@ -1,0 +1,3 @@
+Student.destroy_all
+
+
